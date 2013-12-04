@@ -158,6 +158,3 @@ $RECYCLE.BIN/
 
 # nuget automatic.
 /packages/
-
-# SqlServerCompact file.
-_bin_deployableAssemblies/
